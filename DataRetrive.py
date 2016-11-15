@@ -1,7 +1,7 @@
 from yahoo_finance import Share
 import numpy as np
 import os
-#commit test
+#commit test 1
 
 g = os.path.abspath("DataSet.txt")
 p = os.path.abspath('Array.bin')
